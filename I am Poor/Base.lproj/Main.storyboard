@@ -23,8 +23,8 @@
                                 <color key="textColor" red="0.41176470588235292" green="0.45882352941176469" blue="0.396078431372549" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                 <nil key="highlightedColor"/>
                             </label>
-                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" translatesAutoresizingMaskIntoConstraints="NO" id="MFC-WG-Zrc">
-                                <rect key="frame" x="76" y="370" width="240" height="128"/>
+                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="pngtree-coal-clipart-avatar-cartoon-character-of-coal-vector-png-image_11077748" translatesAutoresizingMaskIntoConstraints="NO" id="tNJ-9T-4ms">
+                                <rect key="frame" x="76" y="362" width="240" height="128"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                             </imageView>
                         </subviews>
@@ -38,6 +38,7 @@
         </scene>
     </scenes>
     <resources>
+        <image name="pngtree-coal-clipart-avatar-cartoon-character-of-coal-vector-png-image_11077748" width="1200" height="1200"/>
         <systemColor name="systemBackgroundColor">
             <color white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
         </systemColor>
